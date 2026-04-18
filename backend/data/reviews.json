@@ -1,0 +1,46 @@
+[
+  { "productId": "p1", "review": "Battery lasts almost 2 days with normal use" },
+  { "productId": "p1", "review": "Battery drains quickly while gaming" },
+  { "productId": "p1", "review": "Fast charging works really well" },
+  { "productId": "p1", "review": "Battery backup is average, not impressive" },
+
+  { "productId": "p1", "review": "Camera quality is excellent in daylight" },
+  { "productId": "p1", "review": "Low light photography is disappointing" },
+  { "productId": "p1", "review": "Front camera is perfect for selfies" },
+  { "productId": "p1", "review": "Camera processing is slow sometimes" },
+
+  { "productId": "p1", "review": "Performance is smooth for daily tasks" },
+  { "productId": "p1", "review": "Lag occurs when opening heavy apps" },
+  { "productId": "p1", "review": "Gaming performance is very good" },
+  { "productId": "p1", "review": "Processor handles multitasking well" },
+
+  { "productId": "p1", "review": "Phone heats up after long gaming sessions" },
+  { "productId": "p1", "review": "No heating issues during normal use" },
+  { "productId": "p1", "review": "Gets warm while charging" },
+
+  { "productId": "p1", "review": "Display is bright and vibrant" },
+  { "productId": "p1", "review": "Screen quality is sharp and clear" },
+  { "productId": "p1", "review": "Brightness is low under sunlight" },
+  { "productId": "p1", "review": "Colors look natural on this display" },
+
+  { "productId": "p1", "review": "Build quality feels premium" },
+  { "productId": "p1", "review": "Back panel attracts fingerprints" },
+  { "productId": "p1", "review": "Design is sleek and modern" },
+  { "productId": "p1", "review": "Plastic body does not feel durable" },
+
+  { "productId": "p1", "review": "Speakers are loud and clear" },
+  { "productId": "p1", "review": "Audio quality is average" },
+  { "productId": "p1", "review": "Sound distorts at high volume" },
+
+  { "productId": "p1", "review": "Fingerprint sensor is fast and accurate" },
+  { "productId": "p1", "review": "Face unlock works quickly" },
+  { "productId": "p1", "review": "Fingerprint sensor sometimes fails" },
+
+  { "productId": "p1", "review": "Software experience is clean and smooth" },
+  { "productId": "p1", "review": "Too many pre-installed apps" },
+  { "productId": "p1", "review": "UI is user-friendly" },
+
+  { "productId": "p1", "review": "Network connectivity is stable" },
+  { "productId": "p1", "review": "Call quality is clear" },
+  { "productId": "p1", "review": "Signal drops in weak areas" }
+]
